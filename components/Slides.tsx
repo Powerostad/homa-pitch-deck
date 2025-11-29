@@ -139,8 +139,8 @@ export const IntroSlide: React.FC<SlideProps> = () => (
         <span className="text-white font-bold text-4xl">H</span>
       </div>
       <h1 className="text-8xl font-black text-white mb-8 tracking-tighter">HOMA</h1>
-      <p className="text-2xl font-light text-zinc-400 max-w-2xl mx-auto leading-relaxed uppercase tracking-widest">
-        تصمیم‌گیریِ خرید: <span className="text-white font-bold border-b border-white pb-1">بصری</span>
+      <p className="text-2xl font-light text-white max-w-2xl mx-auto leading-relaxed uppercase tracking-widest">
+        Visual decision engine
       </p>
     </div>
   </div>
